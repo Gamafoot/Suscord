@@ -1,0 +1,6 @@
+[submodule "suscord-backend"]
+	path = suscord-backend
+	url = https://github.com/Gamafoot/suscord-backend
+[submodule "suscord-frontend"]
+	path = suscord-frontend
+	url = https://github.com/Gamafoot/suscord-frontend
